@@ -1,0 +1,30 @@
+{
+    "e82c2b4f838622e15aab3bc4577f085045ec64df9718198b92a9391645c18e98": {
+        "id": "e82c2b4f838622e15aab3bc4577f085045ec64df9718198b92a9391645c18e98",
+        "name": "English 1/2",
+        "description": "Testing",
+        "school": "Melbourne High School",
+        "members": [
+            "brendan",
+            "tester"
+        ],
+        "events": {
+            "a7afedb5b16b4d98250ee5173142215522490a2f4de0ceecf4ee07b35e05ebf7": {
+                "id": "a7afedb5b16b4d98250ee5173142215522490a2f4de0ceecf4ee07b35e05ebf7",
+                "numerical_id": 1,
+                "title": "title",
+                "description": "very cool test event! please join :)",
+                "type": "SAC",
+                "date": "2025-08-27",
+                "start_time": 3,
+                "end_time": 8,
+                "group_id": "e82c2b4f838622e15aab3bc4577f085045ec64df9718198b92a9391645c18e98",
+                "colour": "#FF5722",
+                "owner": "brendan",
+                "visible": true
+            }
+        },
+        "colour": "#FF5722",
+        "owner": "brendan"
+    }
+}

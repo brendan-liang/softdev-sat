@@ -1,0 +1,28 @@
+{
+    "loggedIn": true,
+    "loggedInUser": {
+        "username": "tester",
+        "display_name": "",
+        "password_hash": "2b005cc8b610fa5899a9f9e592671bba9776a0e778c7f88db9b54eef48490e94",
+        "school": "Melbourne High School",
+        "groups": {
+            "e82c2b4f838622e15aab3bc4577f085045ec64df9718198b92a9391645c18e98": true
+        },
+        "events": {
+            "7abcddbb2c74e4c0789c2c0aa6abcf5172e82e9f4916bc6409fc3989ed673e08": {
+                "id": "7abcddbb2c74e4c0789c2c0aa6abcf5172e82e9f4916bc6409fc3989ed673e08",
+                "numerical_id": 1,
+                "title": "hello",
+                "description": "Description...",
+                "type": "SAC",
+                "date": "2025-08-29",
+                "start_time": 10,
+                "end_time": 11,
+                "group_id": "",
+                "colour": "#36b2ff",
+                "owner": "tester",
+                "visible": false
+            }
+        }
+    }
+}
